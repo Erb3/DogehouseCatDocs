@@ -1,3 +1,3 @@
-# Headline
+# DogehouseCat
 
-> An awesome project.
+> An awesome bot for [Dogehouse](https://dogehouse.tv)

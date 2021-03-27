@@ -1,0 +1,2 @@
+- [Home](/)
+- [Currency](/milk)
